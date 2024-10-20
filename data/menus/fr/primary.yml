@@ -21,4 +21,8 @@ items:
     target: "/le-club/nos-sponsors/"
     kind: page
     children: []
+- title: Vie du Club
+  target: "/vie-du-club/"
+  kind: page
+  children: []
 
