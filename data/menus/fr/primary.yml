@@ -65,4 +65,8 @@ items:
     target: "/mediatheque/videos/"
     kind: page
     children: []
+- title: Infos pratiques
+  target: "/infos-pratiques/"
+  kind: page
+  children: []
 
