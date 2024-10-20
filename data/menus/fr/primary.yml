@@ -41,4 +41,8 @@ items:
     target: "/disciplines/le-ju-jitsu/"
     kind: page
     children: []
+  - title: Le Taïso
+    target: "/disciplines/le-taiso/"
+    kind: page
+    children: []
 
