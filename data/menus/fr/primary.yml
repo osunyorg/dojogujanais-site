@@ -17,4 +17,8 @@ items:
     target: "/le-club/le-bureau/"
     kind: page
     children: []
+  - title: Nos sponsors
+    target: "/le-club/nos-sponsors/"
+    kind: page
+    children: []
 
