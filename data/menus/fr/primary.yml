@@ -5,4 +5,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Le Club
+  target: "/le-club/"
+  kind: page
+  children: []
 
