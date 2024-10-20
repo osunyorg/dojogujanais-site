@@ -68,5 +68,9 @@ items:
 - title: Infos pratiques
   target: "/infos-pratiques/"
   kind: page
-  children: []
+  children:
+  - title: Horaires / Tarifs
+    target: "/infos-pratiques/horaires-tarifs/"
+    kind: page
+    children: []
 
