@@ -29,4 +29,8 @@ items:
     target: "/vie-du-club/calendrier-sportif/"
     kind: page
     children: []
+  - title: Résultats
+    target: "/vie-du-club/resultats/"
+    kind: page
+    children: []
 
