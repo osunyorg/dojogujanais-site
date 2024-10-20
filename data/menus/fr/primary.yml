@@ -73,4 +73,12 @@ items:
     target: "/infos-pratiques/horaires-tarifs/"
     kind: page
     children: []
+  - title: Liens utiles
+    target: "/infos-pratiques/liens-utiles/"
+    kind: page
+    children: []
+  - title: Accès / Contact
+    target: "/infos-pratiques/acces-contact/"
+    kind: page
+    children: []
 
