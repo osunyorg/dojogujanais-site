@@ -57,4 +57,12 @@ items:
     target: "/mediatheque/passage-de-ceintures/"
     kind: page
     children: []
+  - title: Téléchargements
+    target: "/mediatheque/telechargements/"
+    kind: page
+    children: []
+  - title: Vidéos
+    target: "/mediatheque/videos/"
+    kind: page
+    children: []
 
