@@ -13,4 +13,8 @@ items:
     target: "/le-club/presentation/"
     kind: page
     children: []
+  - title: Le Bureau
+    target: "/le-club/le-bureau/"
+    kind: page
+    children: []
 
