@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Le Club
   target: "/le-club/"
   kind: page
@@ -25,12 +21,12 @@ items:
   target: "/vie-du-club/"
   kind: page
   children:
-  - title: Calendrier sportif
-    target: "/vie-du-club/calendrier-sportif/"
+  - title: Actualités
+    target: "/vie-du-club/actualites/"
     kind: page
     children: []
-  - title: Résultats
-    target: "/vie-du-club/resultats/"
+  - title: Calendrier sportif
+    target: "/vie-du-club/calendrier-sportif/"
     kind: page
     children: []
 
