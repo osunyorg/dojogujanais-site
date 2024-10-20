@@ -29,4 +29,8 @@ items:
     target: "/vie-du-club/calendrier-sportif/"
     kind: page
     children: []
+- title: Disciplines
+  target: "/disciplines/"
+  kind: page
+  children: []
 
