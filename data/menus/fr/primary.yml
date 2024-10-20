@@ -32,5 +32,13 @@ items:
 - title: Disciplines
   target: "/disciplines/"
   kind: page
-  children: []
+  children:
+  - title: Le Judo
+    target: "/disciplines/le-judo/"
+    kind: page
+    children: []
+  - title: Le Ju-Jitsu
+    target: "/disciplines/le-ju-jitsu/"
+    kind: page
+    children: []
 
