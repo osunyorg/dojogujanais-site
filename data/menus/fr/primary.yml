@@ -8,5 +8,9 @@ items:
 - title: Le Club
   target: "/le-club/"
   kind: page
-  children: []
+  children:
+  - title: Présentation
+    target: "/le-club/presentation/"
+    kind: page
+    children: []
 
