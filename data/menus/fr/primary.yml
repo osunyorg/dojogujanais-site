@@ -45,4 +45,16 @@ items:
     target: "/disciplines/le-taiso/"
     kind: page
     children: []
+- title: Médiathèque
+  target: "/mediatheque/"
+  kind: page
+  children:
+  - title: Galerie photos
+    target: "/mediatheque/galerie-photos/"
+    kind: page
+    children: []
+  - title: Passage de ceintures
+    target: "/mediatheque/passage-de-ceintures/"
+    kind: page
+    children: []
 
