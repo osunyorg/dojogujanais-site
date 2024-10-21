@@ -15,8 +15,8 @@ fr:
       facebook: >-
         dojo.gujanais
   permalinks:
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
+    posts: /vie-du-club/actualites/:year-:month-:day-:slug/
+    posts_categories: /vie-du-club/actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
