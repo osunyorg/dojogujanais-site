@@ -7,13 +7,25 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        dojo.gujanais@free.fr
-      instagram: >-
-        dojo_gujanais
-      facebook: >-
-        dojo.gujanais
+    contact_details:
+      emails:
+        email:
+          label: >-
+            dojo.gujanais@free.fr
+          value: >-
+            mailto:dojo.gujanais@free.fr
+      social_networks:
+        facebook:
+          label: >-
+            dojo.gujanais
+          value: >-
+            https://www.facebook.com/dojo.gujanais
+        instagram:
+          label: >-
+            dojo_gujanais
+          value: >-
+            https://instagram.com/dojo_gujanais
+
   permalinks:
     posts: /vie-du-club/actualites/:year-:month-:day-:slug/
     posts_categories: /vie-du-club/actualites/:slug/
