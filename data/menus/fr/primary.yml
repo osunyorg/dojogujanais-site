@@ -9,12 +9,15 @@ items:
     target: "/le-club/presentation/"
     kind: page
     children: []
+    path: "/pages/le-club/presentation"
     file: content/fr/pages/le-club/presentation/_index.html
   - title: Le Bureau
     target: "/le-club/le-bureau/"
     kind: page
     children: []
+    path: "/pages/le-club/le-bureau"
     file: content/fr/pages/le-club/le-bureau/_index.html
+  path: "/pages/le-club"
   file: content/fr/pages/le-club/_index.html
 - title: Vie du Club
   target: "/vie-du-club/"
@@ -24,12 +27,15 @@ items:
     target: "/vie-du-club/actualites/"
     kind: page
     children: []
+    path: "/posts"
     file: content/fr/posts/_index.html
   - title: Calendrier sportif
     target: "/vie-du-club/calendrier-sportif/"
     kind: page
     children: []
+    path: "/pages/vie-du-club/calendrier-sportif"
     file: content/fr/pages/vie-du-club/calendrier-sportif/_index.html
+  path: "/pages/vie-du-club"
   file: content/fr/pages/vie-du-club/_index.html
 - title: Disciplines
   target: "/disciplines/"
@@ -39,17 +45,21 @@ items:
     target: "/disciplines/le-judo/"
     kind: page
     children: []
+    path: "/pages/disciplines/le-judo"
     file: content/fr/pages/disciplines/le-judo/_index.html
   - title: Le Ju-Jitsu
     target: "/disciplines/le-ju-jitsu/"
     kind: page
     children: []
+    path: "/pages/disciplines/le-ju-jitsu"
     file: content/fr/pages/disciplines/le-ju-jitsu/_index.html
   - title: Le Taïso
     target: "/disciplines/le-taiso/"
     kind: page
     children: []
+    path: "/pages/disciplines/le-taiso"
     file: content/fr/pages/disciplines/le-taiso/_index.html
+  path: "/pages/disciplines"
   file: content/fr/pages/disciplines/_index.html
 - title: Médiathèque
   target: "/mediatheque/"
@@ -59,22 +69,27 @@ items:
     target: "/mediatheque/galerie-photos/"
     kind: page
     children: []
+    path: "/pages/mediatheque/galerie-photos"
     file: content/fr/pages/mediatheque/galerie-photos/_index.html
   - title: Passage de ceintures
     target: "/mediatheque/passage-de-ceintures/"
     kind: page
     children: []
+    path: "/pages/mediatheque/passage-de-ceintures"
     file: content/fr/pages/mediatheque/passage-de-ceintures/_index.html
   - title: Téléchargements
     target: "/mediatheque/telechargements/"
     kind: page
     children: []
+    path: "/pages/mediatheque/telechargements"
     file: content/fr/pages/mediatheque/telechargements/_index.html
   - title: Vidéos
     target: "/mediatheque/videos/"
     kind: page
     children: []
+    path: "/pages/mediatheque/videos"
     file: content/fr/pages/mediatheque/videos/_index.html
+  path: "/pages/mediatheque"
   file: content/fr/pages/mediatheque/_index.html
 - title: Infos pratiques
   target: "/infos-pratiques/"
@@ -84,16 +99,20 @@ items:
     target: "/infos-pratiques/horaires-tarifs/"
     kind: page
     children: []
+    path: "/pages/infos-pratiques/horaires-tarifs"
     file: content/fr/pages/infos-pratiques/horaires-tarifs/_index.html
   - title: Liens utiles
     target: "/infos-pratiques/liens-utiles/"
     kind: page
     children: []
+    path: "/pages/infos-pratiques/liens-utiles"
     file: content/fr/pages/infos-pratiques/liens-utiles/_index.html
   - title: Accès / Contact
     target: "/infos-pratiques/acces-contact/"
     kind: page
     children: []
+    path: "/pages/infos-pratiques/acces-contact"
     file: content/fr/pages/infos-pratiques/acces-contact/_index.html
+  path: "/pages/infos-pratiques"
   file: content/fr/pages/infos-pratiques/_index.html
 
