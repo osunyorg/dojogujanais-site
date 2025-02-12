@@ -2,6 +2,11 @@
 
 baseURL: https://site.dojogujanais.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 18bca3b0-3a2d-49dd-a33f-fb6d428ad49a
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
