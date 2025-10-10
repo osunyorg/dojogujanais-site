@@ -134,4 +134,18 @@ items:
     file: content/fr/pages/infos-pratiques/acces-contact/_index.html
   path: "/pages/infos-pratiques"
   file: content/fr/pages/infos-pratiques/_index.html
+- title: Équipe
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+- title: Organisations
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 
