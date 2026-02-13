@@ -2,150 +2,206 @@
 title: Menu principal
 items:
 - title: Le Club
+  slug: le-club
   target: "/le-club/"
   kind: page
   new_tab: false
   children:
   - title: Présentation
+    slug: presentation
     target: "/le-club/presentation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/le-club/presentation"
     file: content/fr/pages/le-club/presentation/_index.html
   - title: Le Bureau
+    slug: le-bureau
     target: "/le-club/le-bureau/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/le-club/le-bureau"
     file: content/fr/pages/le-club/le-bureau/_index.html
+  descendants_targets:
+  - "/le-club/le-bureau/"
+  - "/le-club/presentation/"
   path: "/pages/le-club"
   file: content/fr/pages/le-club/_index.html
 - title: Vie du Club
+  slug: vie-du-club
   target: "/vie-du-club/"
   kind: page
   new_tab: false
   children:
   - title: Actualités
+    slug: actualites
     target: "/vie-du-club/actualites/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
   - title: Calendrier sportif
+    slug: calendrier-sportif
     target: "/vie-du-club/calendrier-sportif/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/vie-du-club/calendrier-sportif"
     file: content/fr/pages/vie-du-club/calendrier-sportif/_index.html
+  descendants_targets:
+  - "/vie-du-club/actualites/"
+  - "/vie-du-club/calendrier-sportif/"
   path: "/pages/vie-du-club"
   file: content/fr/pages/vie-du-club/_index.html
 - title: Disciplines
+  slug: disciplines
   target: "/disciplines/"
   kind: page
   new_tab: false
   children:
   - title: Le Judo
+    slug: le-judo
     target: "/disciplines/le-judo/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/disciplines/le-judo"
     file: content/fr/pages/disciplines/le-judo/_index.html
   - title: Le Ju-Jitsu
+    slug: le-ju-jitsu
     target: "/disciplines/le-ju-jitsu/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/disciplines/le-ju-jitsu"
     file: content/fr/pages/disciplines/le-ju-jitsu/_index.html
   - title: Le Taïso
+    slug: le-taiso
     target: "/disciplines/le-taiso/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/disciplines/le-taiso"
     file: content/fr/pages/disciplines/le-taiso/_index.html
+  descendants_targets:
+  - "/disciplines/le-ju-jitsu/"
+  - "/disciplines/le-judo/"
+  - "/disciplines/le-taiso/"
   path: "/pages/disciplines"
   file: content/fr/pages/disciplines/_index.html
 - title: Médiathèque
+  slug: mediatheque
   target: "/mediatheque/"
   kind: page
   new_tab: false
   children:
   - title: Galerie photos
+    slug: galerie-photos
     target: "/mediatheque/galerie-photos/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mediatheque/galerie-photos"
     file: content/fr/pages/mediatheque/galerie-photos/_index.html
   - title: Passage de ceintures
+    slug: passage-de-ceintures
     target: "/mediatheque/passage-de-ceintures/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mediatheque/passage-de-ceintures"
     file: content/fr/pages/mediatheque/passage-de-ceintures/_index.html
   - title: Téléchargements
+    slug: telechargements
     target: "/mediatheque/telechargements/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mediatheque/telechargements"
     file: content/fr/pages/mediatheque/telechargements/_index.html
   - title: Vidéos
+    slug: videos
     target: "/mediatheque/videos/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mediatheque/videos"
     file: content/fr/pages/mediatheque/videos/_index.html
+  descendants_targets:
+  - "/mediatheque/galerie-photos/"
+  - "/mediatheque/passage-de-ceintures/"
+  - "/mediatheque/telechargements/"
+  - "/mediatheque/videos/"
   path: "/pages/mediatheque"
   file: content/fr/pages/mediatheque/_index.html
 - title: Infos pratiques
+  slug: infos-pratiques
   target: "/infos-pratiques/"
   kind: page
   new_tab: false
   children:
   - title: Horaires / Tarifs
+    slug: horaires-tarifs
     target: "/infos-pratiques/horaires-tarifs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/infos-pratiques/horaires-tarifs"
     file: content/fr/pages/infos-pratiques/horaires-tarifs/_index.html
   - title: Liens utiles
+    slug: liens-utiles
     target: "/infos-pratiques/liens-utiles/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/infos-pratiques/liens-utiles"
     file: content/fr/pages/infos-pratiques/liens-utiles/_index.html
   - title: Accès / Contact
+    slug: acces-contact
     target: "/infos-pratiques/acces-contact/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/infos-pratiques/acces-contact"
     file: content/fr/pages/infos-pratiques/acces-contact/_index.html
+  descendants_targets:
+  - "/infos-pratiques/acces-contact/"
+  - "/infos-pratiques/horaires-tarifs/"
+  - "/infos-pratiques/liens-utiles/"
   path: "/pages/infos-pratiques"
   file: content/fr/pages/infos-pratiques/_index.html
 - title: Équipe
+  slug: equipe
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
+  slug: organisations
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 
